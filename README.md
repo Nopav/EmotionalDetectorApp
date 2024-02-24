@@ -1,0 +1,2 @@
+# EmotionalDetectorApp
+emotion detector app
